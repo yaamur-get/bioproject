@@ -28,7 +28,7 @@ export const profileConfig: ProfileConfig = {
   name: "سليمان بن فهد البيشي",
   title: "مهتم ببناء الشراكات وتطوير الأعمال والمشاركة المجتمعية",
   subtitle: "مؤمن بالتكامل مع أدوات الذكاء الاصطناعي كقادة | PMP ©PMD Pro ©KPI ©LMI© تحسين",
-  image: "/uploads/image_a5727a20-1320-4a70-b072-ea72c5409c19.png",
+  image: "/slaman.jpeg",
   backgroundGradient: {
     from: "#2B5F7D",
     via: "#5B8FA3",
@@ -38,7 +38,7 @@ export const profileConfig: ProfileConfig = {
     {
       id: "whatsapp",
       label: "الواتساب",
-      url: "https://wa.me/966500000000",
+      url: "https://wa.me/966561298787",
       icon: "whatsapp",
       bgColor: "white",
       textColor: "black"
@@ -46,7 +46,7 @@ export const profileConfig: ProfileConfig = {
     {
       id: "twitter",
       label: "اكس X",
-      url: "https://twitter.com/username",
+      url: "https://x.com/sulimanAlbishi",
       icon: "twitter",
       bgColor: "white",
       textColor: "black"
@@ -54,7 +54,7 @@ export const profileConfig: ProfileConfig = {
     {
       id: "email",
       label: "البريد الإلكتروني",
-      url: "mailto:info@example.com",
+      url: "mailto:slamalbishi@gmail.com",
       icon: "email",
       bgColor: "white",
       textColor: "black"
