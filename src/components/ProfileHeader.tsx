@@ -17,7 +17,7 @@ export function ProfileHeader({ config }: ProfileHeaderProps) {
             alt={config.name}
             width={192}
             height={192}
-            className="object-cover w-full h-full transition-transform duration-700 group-hover:scale-110"
+            className="object-contain w-full h-full transition-transform duration-700 group-hover:scale-110 scale-85"
             priority
           />
         </div>
