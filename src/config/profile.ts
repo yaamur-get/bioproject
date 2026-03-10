@@ -28,7 +28,7 @@ export const profileConfig: ProfileConfig = {
   name: "سليمان بن فهد البيشي",
   title: "مهتم ببناء الشراكات وتطوير الأعمال والمشاركة المجتمعية | مؤمن بالتكامل مع أدوات الذكاء الاصطناعي كأداةٍ تحسين",
   subtitle: "PMP© | PMD Pro© | KPI© | LMI©",
-  image: "/slaman.jpeg",
+  image: "/new%20pic.jpeg",
   backgroundGradient: {
     from: "#2B5F7D",
     via: "#5B8FA3",
@@ -40,6 +40,14 @@ export const profileConfig: ProfileConfig = {
       label: "الواتساب",
       url: "https://wa.me/966561298787",
       icon: "whatsapp",
+      bgColor: "white",
+      textColor: "black"
+    },
+    {
+      id: "linkedin",
+      label: "لينكد إن",
+      url: "https://www.linkedin.com/in/%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86-%D8%A8%D9%86-%D9%81%D9%87%D8%AF-%D8%A7%D9%84%D8%A8%D9%8A%D8%B4%D9%8A-050088307/",
+      icon: "linkedin",
       bgColor: "white",
       textColor: "black"
     },
@@ -60,16 +68,8 @@ export const profileConfig: ProfileConfig = {
       textColor: "black"
     },
     {
-      id: "linkedin",
-      label: "لينكد إن",
-      url: "https://www.linkedin.com/in/%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86-%D8%A8%D9%86-%D9%81%D9%87%D8%AF-%D8%A7%D9%84%D8%A8%D9%8A%D8%B4%D9%8A-050088307/",
-      icon: "linkedin",
-      bgColor: "white",
-      textColor: "black"
-    },
-    {
       id: "fal-certificate",
-      label: "رخصة فال",
+      label: "رخصة فال رقم: 1100278921",
       url: "#",
       icon: "certificate",
       bgColor: "white",

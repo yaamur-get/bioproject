@@ -20,8 +20,8 @@ export default function Home() {
         <div className="relative w-full overflow-hidden bg-gradient-to-b from-[#2B5F7D] via-[#5B8FA3] to-[#7AACBE]">
           <div className="container mx-auto px-6 pt-16 pb-8">
             <div className="flex flex-col items-center">
-              {/* الصورة الشخصية - مربعة */}
-              <div className="relative w-72 h-80 md:w-80 md:h-96 mb-6 animate-fade-in-up">
+              {/* الصورة الشخصية - تملأ العرض والطول */}
+              <div className="relative w-full max-w-sm md:max-w-md lg:max-w-lg aspect-[3/4] mb-6 animate-fade-in-up">
                 <div className="absolute inset-0 bg-white rounded-3xl shadow-2xl" />
                 <div className="relative w-full h-full rounded-3xl overflow-hidden">
                   <div 
